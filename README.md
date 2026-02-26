@@ -34,3 +34,20 @@ Zmienna zależna:
 Najważniejsze wnioski:
 - wiek ślubu nie ma wpływu na dochód jednostki w późniejszym życiu
 - istotny wpływ na dochód jednostki ma wiek narodzin pierwszego dziecka
+
+## Wymagane pakiety R
+
+- dplyr
+- ggplot2
+- lmtest
+- sandwich
+- car
+- modelsummary
+- flextable
+
+---
+
+## Autor
+
+Michał Potasiński
+Projekt wykonany w ramach zajęć z ekonometrii.
